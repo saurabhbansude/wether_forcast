@@ -4,8 +4,7 @@ An interactive and visually appealing **Weather Forecast Web App** that lets use
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live demo]([https://yourusername.github.io/weather-forecast/](https://saurabhbansude.github.io/wether_forcast/))
-*(Replace the link with your actual GitHub Pages or hosting URL.)*
+👉 [Click here to view the live demo](https://saurabhbansude.github.io/wether_forcast/)
 
 ## ✨ Features
 
