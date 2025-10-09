@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecast App
+# 🌦️ Weather Forecast Website
 
 An interactive and visually appealing **Weather Forecast Web App** that lets users explore real-time weather conditions anywhere in the world. Built with **HTML, CSS, and JavaScript**, this project fetches live data from the **OpenWeatherMap API** and displays it in a clean, responsive interface.
 
